@@ -10,6 +10,7 @@
 
 ### -✉️  You can shoot me an email at jinnies47@gmail.com! I'll try to respond as soon as I can.
 
+### - I regularly practice data structures and algorithms and give contests on sites like [Leetcode](https://leetcode.com/jinnies47/) ,[Codechef](https://codechef.com/user/jinnies47/) ,[GeeksforGeeks](https://auth.geeksforgeeks.org/user/jinnies47/profile),[Codeforces](https://codeforces.com/profile/jinnies47)
 <!---
 jinnies47/jinnies47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
