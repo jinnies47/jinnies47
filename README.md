@@ -12,7 +12,7 @@
 
 ### - I regularly practice data structures and algorithms and give contests on sites like 
 [Leetcode](https://leetcode.com/jinnies47/) ,
-[Codechef](https://codechef.com/user/jinnies47/) ,
+[Codechef](https://codechef.com/users/jinnies47/) ,
 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/jinnies47/profile),
 [Codeforces](https://codeforces.com/profile/jinnies47)
 <!---
