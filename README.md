@@ -13,8 +13,10 @@
 ### - I regularly practice data structures and algorithms and give contests on sites like 
 [Leetcode](https://leetcode.com/jinnies47/) ,
 [Codechef](https://codechef.com/users/jinnies47/) ,
-[GeeksforGeeks](https://auth.geeksforgeeks.org/user/jinnies47/profile),
-[Codeforces](https://codeforces.com/profile/jinnies47)
+[GeeksforGeeks](https://auth.geeksforgeeks.org/user/jinnies47/profile)
+### Happy to Connect on
+[Linkedin](https://www.linkedin.com/in/jinnies-rego/),
+[Twitter](https://www.twitter.com/jinnies47/)
 <!---
 jinnies47/jinnies47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
